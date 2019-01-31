@@ -3,12 +3,12 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://www.kuguar.io/categories/</loc>
-    <priority>0</priority>
+    <loc>https://www.kuguar.io/</loc>
+    <lastmod>2019-01-30T21:20:25+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.kuguar.io/</loc>
+    <loc>https://www.kuguar.io/categories/</loc>
     <priority>0</priority>
   </url>
   
