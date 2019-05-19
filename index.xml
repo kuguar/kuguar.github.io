@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Home on Kuguar I/O</title>
-    <link>https://www.kuguar.io/</link>
+    <link>https://www.kuguar.dev/</link>
     <description>Recent content in Home on Kuguar I/O</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 30 Jan 2019 21:20:25 +0100</lastBuildDate>
-    
-	<atom:link href="https://www.kuguar.io/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+
+	<atom:link href="https://www.kuguar.dev/index.xml" rel="self" type="application/rss+xml" />
+
+
     <item>
       <title>Contact</title>
-      <link>https://www.kuguar.io/contact/</link>
+      <link>https://www.kuguar.dev/contact/</link>
       <pubDate>Fri, 01 Feb 2019 21:28:34 +0100</pubDate>
-      
-      <guid>https://www.kuguar.io/contact/</guid>
-      <description>Contact form   Message    Send  Disclaimer  Submitting the form means that you are sending personal information (name &amp; email) to kuguar.contact@kuguar.io. Kuguar I/O is the receiving party and data controller.  We will only use this information for the purpose of establishing relationship leading to possibly signing a services contract and and eventual delivery thereof. We are not going to use this email to subscribe you to mailing lists, newsletters or to send you unwanted advertisements.</description>
+
+      <guid>https://www.kuguar.dev/contact/</guid>
+      <description>Contact form   Message    Send  Disclaimer  Submitting the form means that you are sending personal information (name &amp; email) to kuguar.contact@kuguar.dev. Kuguar I/O is the receiving party and data controller.  We will only use this information for the purpose of establishing relationship leading to possibly signing a services contract and and eventual delivery thereof. We are not going to use this email to subscribe you to mailing lists, newsletters or to send you unwanted advertisements.</description>
     </item>
-    
+
   </channel>
 </rss>
