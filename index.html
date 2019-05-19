@@ -2,9 +2,9 @@
 <html lang="en-us"><head>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-        <meta name="generator" content="Hugo 0.53" />
+        <meta name="generator" content="Hugo 0.54.0" />
 
-	<title>Home | Kuguar</title>
+	<title>Kuguar</title>
 
 
 	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
@@ -13,18 +13,17 @@
 	<link href="https://fonts.googleapis.com/css?family=Righteous%7CMerriweather:300,300i,400,400i,700,700i" rel="stylesheet">
 	<link href="/css/medium.css" rel="stylesheet">
 	<link href="/css/additional.css" rel="stylesheet">
-	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.1/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
 </head>
 <body>
 <nav class="navbar navbar-expand-lg navbar-light bg-white fixed-top mediumnavigation nav-down">
     <div class="container pr-0">
 
         <a class="navbar-brand" href="https://www.kuguar.dev//">
-
-
-            <span style="font-family:Righteous;">Kuguar</span>
-
+            <span style="font-family:Righteous;">Kuguar Development</span>
         </a>
+
+
+
 
 
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarMediumish" aria-controls="navbarSupportedContent"
@@ -37,10 +36,6 @@
 
             <ul class="navbar-nav ml-auto">
 
-                <li class="nav-item ">
-                    <a class="nav-link" href="/contact/">Contact</a>
-                </li>
-
             </ul>
         </div>
 
@@ -52,34 +47,27 @@
             <div class="container">
     <div class="main-content">
         <header class="text-center">
-
             <h1 class="index-title"></h1>
         </header>
 
         <section class="text-center">
-
-
         </section>
 
 
         <div class="article-post">
-
-
 <h2 id="apis">APIs</h2>
 
-<p>Depending on project needs we build, deploy and keep running escalable REST and GraphQL APIs to support web, mobile,IoT and real-time systems.</p>
+<p>Depending on project needs we build, deploy and keep running escalable REST and GraphQL APIs to support web, mobile, <a href="https://en.wikipedia.org/wiki/Internet_of_things">IoT</a> and real-time systems.</p>
 
 <h2 id="web">Web</h2>
 
 <ul>
-<li><p><strong>Traditional Web App</strong>: where the application logic reside exclusively in the backend system, we can provide you with a sounded solution leaning on progressive enhancement and ROCA recommendations.</p></li>
+<li><p><strong>Traditional Web App</strong>: where the application logic reside exclusively in the backend system, we can provide you with a sounded solution leaning on progressive enhancement and <a href="https://roca-style.org/">ROCA recommendations</a>.</p></li>
 
-<li><p><strong>Single Page Apps</strong>: for rich user interfaces, dashboards and monitoring control panels or when an API endpoint is already serving requests and you need to interact with it through a web browser we are going to develop SPAs based on proven technologies.</p></li>
+<li><p><strong>Single Page Apps</strong>: for rich user interfaces, dashboards and monitoring control panels or when you already have an endpoint serving API request and you need to interact with it through a web browser.</p></li>
 </ul>
 
 <h2 id="mobile">Mobile</h2>
-
-<p>We develope:</p>
 
 <ul>
 <li><p><strong>Native apps</strong> for iOS and Android. We use Flutter to share the same codebase for both platforms.</p></li>
@@ -87,38 +75,94 @@
 <li><p><strong>Progressive Web Apps</strong> when you want to deliver fast not wanting to giving up an amazing user experience while avoiding at the same time the cumbersome approval processes for delivering and update on each platform and, finally, all sharing a large part of the logic used to build the web client.</p></li>
 </ul>
 
-<h2 id="tech-stack">Tech Stack</h2>
+<h2 id="deployment">Deployment</h2>
 
-<h3 id="golang">Golang</h3>
+<p>Unless an specific customer requirement force us to lean over another development platform our solutions can usually be deployed, either in bare metal as a single compiled file or, for more complex developments and using container orchestration technologies, in any Kubernetes cloud provider.</p>
+
+<p>Among among other technical features, containers can be seen as a way to avoid vendor lock-in by abstracting the application away from the underlying hardware and platform. Any container image should be able to run on any cloud service (GKE, EKS, Azure, DigitalOcean, etc...)</p>
+
+<p>From Kubernetes sites</p>
+
+<blockquote>
+  <p><a href="https://kubernetes.io/docs/concepts/overview/what-is-kubernetes">Kubernetes is a portable, extensible open-source platform for managing containerized workloads and services, that facilitates both declarative configuration and automation. It has a large, rapidly growing ecosystem.</a></p>
+</blockquote>
+
+<h2 id="techstack">Tech Stack</h2>
+
+<p>Our developments are mainly based on these technologies.</p>
+
+<h3 id="back">Back</h3>
 
 <ul>
-<li>Go kit</li>
-<li>Kubernetes</li>
+<li><a href="https://golang.org/">Go</a></li>
+
+<li><a href="https://gokit.io/">Go kit</a></li>
+
+<li><a href="https://github.com/nytimes/gizmo">Gizmo</a></li>
+
+<li><a href="https://goa.design">Goa</a></li>
+
+<li><a href="https://www.vaultproject.io/">Vault</a></li>
+
+<li><a href="https://www.consul.io/">Consul</a></li>
+
+<li><a href="https://casbin.org/">Casbin</a></li>
+
+<li><a href="https://github.com/graphql-go/graphql">GraphQL Go</a></li>
 </ul>
 
-<h3 id="python">Python</h3>
+<h3 id="front">Front</h3>
 
 <ul>
-<li>Django</li>
-<li>Django REST</li>
+<li><a href="https://dart.dev/">Dart</a></li>
+
+<li><a href="https://flutter.dev/">Flutter</a></li>
+
+<li><a href="https://medium.com/flutter-io/hummingbird-building-flutter-for-the-web-e687c2a023a8">Hummingbird</a> (*)</li>
+
+<li><a href="https://unpoly.com/">Unpoly</a></li>
+
+<li><a href="https://material.io/design">Material</a></li>
 </ul>
 
-<h3 id="dart">Dart</h3>
+<h3 id="databases">Databases</h3>
 
 <ul>
-<li>AngularDart</li>
-<li>Flutter</li>
+<li><a href="https://www.mongodb.com">MongoDB</a></li>
+
+<li><a href="https://dgraph.io">Dgraph</a></li>
+
+<li><a href="https://www.postgresql.org">PostgreSQL</a></li>
 </ul>
 
-<h3 id="aws-gcp">AWS &amp; GCP</h3>
+<h3 id="brokers">Brokers</h3>
 
+<ul>
+<li><a href="https://redis.io/">Redis</a></li>
+
+<li><a href="https://www.rabbitmq.com/">RabbitMQ</a></li>
+</ul>
+
+<h3 id="deployment-1">Deployment</h3>
+
+<ul>
+<li><a href="https://www.docker.com">Docker</a></li>
+
+<li><a href="https://kubernetes.io">Kubernetes</a></li>
+
+<li><a href="https://cloud.google.com/kubernetes-engine">Google GKE</a></li>
+
+<li><a href="https://aws.amazon.com/eks">Amazon EKS</a></li>
+
+<li><a href="https://azure.microsoft.com/en-us/services/kubernetes-service">Azure AKS</a></li>
+
+<li><a href="https://www.digitalocean.com/products/kubernetes">DigitalOcean Kubernetes</a></li>
+</ul>
+
+<p>(*) Soon</p>
         </div>
 
     </div><section class="text-center">
-
-
-
-
 
 </section>
 
