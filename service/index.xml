@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Service on Kuguar</title>
+    <link>https://www.kuguar.dev/service/</link>
+    <description>Recent content in Service on Kuguar</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 12 Jul 2018 18:19:33 +0600</lastBuildDate>
+    
+	<atom:link href="https://www.kuguar.dev/service/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://www.kuguar.dev/service/0-web-apis/</link>
+      <pubDate>Sat, 29 Sep 2018 11:54:02 +0600</pubDate>
+      
+      <guid>https://www.kuguar.dev/service/0-web-apis/</guid>
+      <description>As a function of project requirements and scope we design extensible and robust RESTful and GraphQL Web APIS to feed browser, mobile devices and real-time IoT systems.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://www.kuguar.dev/service/1-web-apps/</link>
+      <pubDate>Sat, 29 Sep 2018 11:54:02 +0600</pubDate>
+      
+      <guid>https://www.kuguar.dev/service/1-web-apps/</guid>
+      <description>Backend and Frontend integrated solutions based on our tech-stack. Tested logic and resilient architectures giving life to stylized and bespoke interfaces.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://www.kuguar.dev/service/2-spas/</link>
+      <pubDate>Sat, 29 Sep 2018 11:51:17 +0600</pubDate>
+      
+      <guid>https://www.kuguar.dev/service/2-spas/</guid>
+      <description>Interfaces you can trust. No runtime exception guaranteed by our stack, a smooth navigation for a seamless and interruption-free user experience.</description>
+    </item>
+    
+  </channel>
+</rss>

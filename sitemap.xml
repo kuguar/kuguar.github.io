@@ -1,25 +1,257 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-
+  
   <url>
-    <loc>https://www.kuguar.dev/contact/</loc>
-    <lastmod>2019-02-01T21:28:34+01:00</lastmod>
+    <loc>https://www.kuguar.dev/team/alisha-mayar/</loc>
+    <lastmod>2018-09-29T14:43:10+06:00</lastmod>
   </url>
-
+  
   <url>
     <loc>https://www.kuguar.dev/</loc>
-    <lastmod>2019-01-30T21:20:25+01:00</lastmod>
+    <lastmod>2018-09-29T14:43:10+06:00</lastmod>
+    <priority>0</priority>
   </url>
-
+  
+  <url>
+    <loc>https://www.kuguar.dev/team/joseph-pullin/</loc>
+    <lastmod>2018-09-29T14:42:51+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.kuguar.dev/team/andrew-givson/</loc>
+    <lastmod>2018-09-29T14:42:31+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.kuguar.dev/team/steve-woah/</loc>
+    <lastmod>2018-09-29T14:42:07+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.kuguar.dev/team/alex-cagar/</loc>
+    <lastmod>2018-09-29T14:41:38+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.kuguar.dev/team/phillip-wilson/</loc>
+    <lastmod>2018-09-29T12:58:30+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.kuguar.dev/service/0-web-apis/</loc>
+    <lastmod>2018-09-29T11:54:02+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.kuguar.dev/service/1-web-apps/</loc>
+    <lastmod>2018-09-29T11:54:02+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.kuguar.dev/service/2-spas/</loc>
+    <lastmod>2018-09-29T11:51:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.kuguar.dev/project/project1/</loc>
+    <lastmod>2018-09-24T14:48:03+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.kuguar.dev/project/project2/</loc>
+    <lastmod>2018-09-24T14:48:03+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.kuguar.dev/project/project3/</loc>
+    <lastmod>2018-09-24T14:48:03+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.kuguar.dev/project/project4/</loc>
+    <lastmod>2018-09-24T14:48:03+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.kuguar.dev/project/project5/</loc>
+    <lastmod>2018-09-24T14:48:03+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.kuguar.dev/project/project6/</loc>
+    <lastmod>2018-09-24T14:48:03+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.kuguar.dev/project/project7/</loc>
+    <lastmod>2018-09-24T14:48:03+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.kuguar.dev/project/project8/</loc>
+    <lastmod>2018-09-24T14:48:03+06:00</lastmod>
+  </url>
+  
   <url>
     <loc>https://www.kuguar.dev/categories/</loc>
+    <lastmod>2018-09-24T11:11:24+06:00</lastmod>
     <priority>0</priority>
   </url>
-
+  
+  <url>
+    <loc>https://www.kuguar.dev/categories/consultancy/</loc>
+    <lastmod>2018-09-24T11:11:24+06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.kuguar.dev/tags/consultancy/</loc>
+    <lastmod>2018-09-24T11:11:24+06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.kuguar.dev/blog/economics-meter/</loc>
+    <lastmod>2018-09-24T11:11:24+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.kuguar.dev/tags/finance/</loc>
+    <lastmod>2018-09-24T11:11:24+06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.kuguar.dev/tags/marketing/</loc>
+    <lastmod>2018-09-24T11:11:24+06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
   <url>
     <loc>https://www.kuguar.dev/tags/</loc>
+    <lastmod>2018-09-24T11:11:24+06:00</lastmod>
     <priority>0</priority>
   </url>
-
+  
+  <url>
+    <loc>https://www.kuguar.dev/tags/business/</loc>
+    <lastmod>2018-09-24T11:10:46+06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.kuguar.dev/categories/marketing-guidance/</loc>
+    <lastmod>2018-09-24T11:10:46+06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.kuguar.dev/blog/money-and-money/</loc>
+    <lastmod>2018-09-24T11:10:46+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.kuguar.dev/blog/finance-my-business/</loc>
+    <lastmod>2018-09-24T11:10:07+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.kuguar.dev/tags/market-analysis/</loc>
+    <lastmod>2018-09-24T11:10:07+06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.kuguar.dev/categories/profit-growth/</loc>
+    <lastmod>2018-09-24T11:10:07+06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.kuguar.dev/tags/revenue/</loc>
+    <lastmod>2018-09-24T11:10:07+06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.kuguar.dev/tags/advice/</loc>
+    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.kuguar.dev/blog/business-magnate/</loc>
+    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.kuguar.dev/categories/business-news/</loc>
+    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.kuguar.dev/categories/company-news/</loc>
+    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.kuguar.dev/blog/cool-the-audits/</loc>
+    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.kuguar.dev/tags/fitness/</loc>
+    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.kuguar.dev/categories/investment/</loc>
+    <lastmod>2018-09-23T11:35:34+06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.kuguar.dev/blog/new-hugo-post/</loc>
+    <lastmod>2018-09-23T11:35:34+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.kuguar.dev/about/</loc>
+    <lastmod>2018-07-12T18:19:33+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.kuguar.dev/blog/</loc>
+    <lastmod>2018-07-12T18:19:33+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.kuguar.dev/contact/</loc>
+    <lastmod>2018-07-12T18:19:33+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.kuguar.dev/project/</loc>
+    <lastmod>2018-07-12T18:19:33+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.kuguar.dev/team/</loc>
+    <lastmod>2018-07-12T18:19:33+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.kuguar.dev/pricing/</loc>
+    <lastmod>2018-07-12T18:19:33+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.kuguar.dev/service/</loc>
+    <lastmod>2018-07-12T18:19:33+06:00</lastmod>
+  </url>
+  
 </urlset>

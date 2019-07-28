@@ -6,6 +6,82 @@
     <description>Recent content in Tags on Kuguar</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="https://www.kuguar.dev/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 24 Sep 2018 11:11:24 +0600</lastBuildDate>
+    
+	<atom:link href="https://www.kuguar.dev/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Consultancy</title>
+      <link>https://www.kuguar.dev/tags/consultancy/</link>
+      <pubDate>Mon, 24 Sep 2018 11:11:24 +0600</pubDate>
+      
+      <guid>https://www.kuguar.dev/tags/consultancy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Finance</title>
+      <link>https://www.kuguar.dev/tags/finance/</link>
+      <pubDate>Mon, 24 Sep 2018 11:11:24 +0600</pubDate>
+      
+      <guid>https://www.kuguar.dev/tags/finance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Marketing</title>
+      <link>https://www.kuguar.dev/tags/marketing/</link>
+      <pubDate>Mon, 24 Sep 2018 11:11:24 +0600</pubDate>
+      
+      <guid>https://www.kuguar.dev/tags/marketing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Business</title>
+      <link>https://www.kuguar.dev/tags/business/</link>
+      <pubDate>Mon, 24 Sep 2018 11:10:46 +0600</pubDate>
+      
+      <guid>https://www.kuguar.dev/tags/business/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Market Analysis</title>
+      <link>https://www.kuguar.dev/tags/market-analysis/</link>
+      <pubDate>Mon, 24 Sep 2018 11:10:07 +0600</pubDate>
+      
+      <guid>https://www.kuguar.dev/tags/market-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Revenue</title>
+      <link>https://www.kuguar.dev/tags/revenue/</link>
+      <pubDate>Mon, 24 Sep 2018 11:10:07 +0600</pubDate>
+      
+      <guid>https://www.kuguar.dev/tags/revenue/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Advice</title>
+      <link>https://www.kuguar.dev/tags/advice/</link>
+      <pubDate>Mon, 24 Sep 2018 11:07:10 +0600</pubDate>
+      
+      <guid>https://www.kuguar.dev/tags/advice/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fitness</title>
+      <link>https://www.kuguar.dev/tags/fitness/</link>
+      <pubDate>Mon, 24 Sep 2018 11:07:10 +0600</pubDate>
+      
+      <guid>https://www.kuguar.dev/tags/fitness/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

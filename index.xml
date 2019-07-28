@@ -1,19 +1,222 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Home on Kuguar</title>
+    <title>Kuguar</title>
     <link>https://www.kuguar.dev/</link>
-    <description>Recent content in Home on Kuguar</description>
+    <description>Recent content on Kuguar</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 30 Jan 2019 21:20:25 +0100</lastBuildDate>
-    <atom:link href="https://www.kuguar.dev/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 29 Sep 2018 14:43:10 +0600</lastBuildDate>
+    
+	<atom:link href="https://www.kuguar.dev/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
-      <title>Contact</title>
-      <link>https://www.kuguar.dev/contact/</link>
-      <pubDate>Fri, 01 Feb 2019 21:28:34 +0100</pubDate>
-      <guid>https://www.kuguar.dev/contact/</guid>
-      <description>Contact form   Message    Send  Disclaimer  Submitting the form means that you are sending personal information (name &amp; email) to kuguar.contact@kuguar.dev. Kuguar is the receiving party and data controller.  We will only use this information for the purpose of establishing relationship leading to possibly signing a services contract and and eventual delivery thereof. We are not going to use this email to subscribe you to mailing lists, newsletters or to send you unwanted advertisements.</description>
+      <title>Alisha Mayar</title>
+      <link>https://www.kuguar.dev/team/alisha-mayar/</link>
+      <pubDate>Sat, 29 Sep 2018 14:43:10 +0600</pubDate>
+      
+      <guid>https://www.kuguar.dev/team/alisha-mayar/</guid>
+      <description>Work History &amp;amp; Feedback Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
+    
+    <item>
+      <title>Joseph Pullin</title>
+      <link>https://www.kuguar.dev/team/joseph-pullin/</link>
+      <pubDate>Sat, 29 Sep 2018 14:42:51 +0600</pubDate>
+      
+      <guid>https://www.kuguar.dev/team/joseph-pullin/</guid>
+      <description>Work History &amp;amp; Feedback Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
+    <item>
+      <title>Andrew Givson</title>
+      <link>https://www.kuguar.dev/team/andrew-givson/</link>
+      <pubDate>Sat, 29 Sep 2018 14:42:31 +0600</pubDate>
+      
+      <guid>https://www.kuguar.dev/team/andrew-givson/</guid>
+      <description>Work History &amp;amp; Feedback Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
+    <item>
+      <title>Steve Woah</title>
+      <link>https://www.kuguar.dev/team/steve-woah/</link>
+      <pubDate>Sat, 29 Sep 2018 14:42:07 +0600</pubDate>
+      
+      <guid>https://www.kuguar.dev/team/steve-woah/</guid>
+      <description>Work History &amp;amp; Feedback Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
+    <item>
+      <title>Alex Cagar</title>
+      <link>https://www.kuguar.dev/team/alex-cagar/</link>
+      <pubDate>Sat, 29 Sep 2018 14:41:38 +0600</pubDate>
+      
+      <guid>https://www.kuguar.dev/team/alex-cagar/</guid>
+      <description>Work History &amp;amp; Feedback Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
+    <item>
+      <title>Phillip Wilson</title>
+      <link>https://www.kuguar.dev/team/phillip-wilson/</link>
+      <pubDate>Sat, 29 Sep 2018 12:58:30 +0600</pubDate>
+      
+      <guid>https://www.kuguar.dev/team/phillip-wilson/</guid>
+      <description>Work History &amp;amp; Feedback Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://www.kuguar.dev/service/0-web-apis/</link>
+      <pubDate>Sat, 29 Sep 2018 11:54:02 +0600</pubDate>
+      
+      <guid>https://www.kuguar.dev/service/0-web-apis/</guid>
+      <description>As a function of project requirements and scope we design extensible and robust RESTful and GraphQL Web APIS to feed browser, mobile devices and real-time IoT systems.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://www.kuguar.dev/service/1-web-apps/</link>
+      <pubDate>Sat, 29 Sep 2018 11:54:02 +0600</pubDate>
+      
+      <guid>https://www.kuguar.dev/service/1-web-apps/</guid>
+      <description>Backend and Frontend integrated solutions based on our tech-stack. Tested logic and resilient architectures giving life to stylized and bespoke interfaces.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://www.kuguar.dev/service/2-spas/</link>
+      <pubDate>Sat, 29 Sep 2018 11:51:17 +0600</pubDate>
+      
+      <guid>https://www.kuguar.dev/service/2-spas/</guid>
+      <description>Interfaces you can trust. No runtime exception guaranteed by our stack, a smooth navigation for a seamless and interruption-free user experience.</description>
+    </item>
+    
+    <item>
+      <title>Finance Consultancy</title>
+      <link>https://www.kuguar.dev/project/project1/</link>
+      <pubDate>Mon, 24 Sep 2018 14:48:03 +0600</pubDate>
+      
+      <guid>https://www.kuguar.dev/project/project1/</guid>
+      <description>Apollo For Baximco Inc. Australia Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
+    <item>
+      <title>Finance Consultancy</title>
+      <link>https://www.kuguar.dev/project/project2/</link>
+      <pubDate>Mon, 24 Sep 2018 14:48:03 +0600</pubDate>
+      
+      <guid>https://www.kuguar.dev/project/project2/</guid>
+      <description>Apollo For Baximco Inc. Australia Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
+    <item>
+      <title>Finance Consultancy</title>
+      <link>https://www.kuguar.dev/project/project3/</link>
+      <pubDate>Mon, 24 Sep 2018 14:48:03 +0600</pubDate>
+      
+      <guid>https://www.kuguar.dev/project/project3/</guid>
+      <description>Apollo For Baximco Inc. Australia Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
+    <item>
+      <title>Finance Consultancy</title>
+      <link>https://www.kuguar.dev/project/project4/</link>
+      <pubDate>Mon, 24 Sep 2018 14:48:03 +0600</pubDate>
+      
+      <guid>https://www.kuguar.dev/project/project4/</guid>
+      <description>Apollo For Baximco Inc. Australia Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
+    <item>
+      <title>Finance Consultancy</title>
+      <link>https://www.kuguar.dev/project/project5/</link>
+      <pubDate>Mon, 24 Sep 2018 14:48:03 +0600</pubDate>
+      
+      <guid>https://www.kuguar.dev/project/project5/</guid>
+      <description>Apollo For Baximco Inc. Australia Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
+    <item>
+      <title>Finance Consultancy</title>
+      <link>https://www.kuguar.dev/project/project6/</link>
+      <pubDate>Mon, 24 Sep 2018 14:48:03 +0600</pubDate>
+      
+      <guid>https://www.kuguar.dev/project/project6/</guid>
+      <description>Apollo For Baximco Inc. Australia Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
+    <item>
+      <title>Finance Consultancy</title>
+      <link>https://www.kuguar.dev/project/project7/</link>
+      <pubDate>Mon, 24 Sep 2018 14:48:03 +0600</pubDate>
+      
+      <guid>https://www.kuguar.dev/project/project7/</guid>
+      <description>Apollo For Baximco Inc. Australia Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
+    <item>
+      <title>Finance Consultancy</title>
+      <link>https://www.kuguar.dev/project/project8/</link>
+      <pubDate>Mon, 24 Sep 2018 14:48:03 +0600</pubDate>
+      
+      <guid>https://www.kuguar.dev/project/project8/</guid>
+      <description>Apollo For Baximco Inc. Australia Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
+    <item>
+      <title>Economics Meter</title>
+      <link>https://www.kuguar.dev/blog/economics-meter/</link>
+      <pubDate>Mon, 24 Sep 2018 11:11:24 +0600</pubDate>
+      
+      <guid>https://www.kuguar.dev/blog/economics-meter/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
+    <item>
+      <title>Money and Money</title>
+      <link>https://www.kuguar.dev/blog/money-and-money/</link>
+      <pubDate>Mon, 24 Sep 2018 11:10:46 +0600</pubDate>
+      
+      <guid>https://www.kuguar.dev/blog/money-and-money/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
+    <item>
+      <title>Finance My Business</title>
+      <link>https://www.kuguar.dev/blog/finance-my-business/</link>
+      <pubDate>Mon, 24 Sep 2018 11:10:07 +0600</pubDate>
+      
+      <guid>https://www.kuguar.dev/blog/finance-my-business/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
+    <item>
+      <title>Business Magnate</title>
+      <link>https://www.kuguar.dev/blog/business-magnate/</link>
+      <pubDate>Mon, 24 Sep 2018 11:07:10 +0600</pubDate>
+      
+      <guid>https://www.kuguar.dev/blog/business-magnate/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
+    <item>
+      <title>Cool the Audits</title>
+      <link>https://www.kuguar.dev/blog/cool-the-audits/</link>
+      <pubDate>Mon, 24 Sep 2018 11:07:10 +0600</pubDate>
+      
+      <guid>https://www.kuguar.dev/blog/cool-the-audits/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
+    <item>
+      <title>New Hugo Post</title>
+      <link>https://www.kuguar.dev/blog/new-hugo-post/</link>
+      <pubDate>Sun, 23 Sep 2018 11:35:34 +0600</pubDate>
+      
+      <guid>https://www.kuguar.dev/blog/new-hugo-post/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
   </channel>
 </rss>

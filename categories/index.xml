@@ -6,6 +6,64 @@
     <description>Recent content in Categories on Kuguar</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="https://www.kuguar.dev/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 24 Sep 2018 11:11:24 +0600</lastBuildDate>
+    
+	<atom:link href="https://www.kuguar.dev/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Consultancy</title>
+      <link>https://www.kuguar.dev/categories/consultancy/</link>
+      <pubDate>Mon, 24 Sep 2018 11:11:24 +0600</pubDate>
+      
+      <guid>https://www.kuguar.dev/categories/consultancy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Marketing Guidance</title>
+      <link>https://www.kuguar.dev/categories/marketing-guidance/</link>
+      <pubDate>Mon, 24 Sep 2018 11:10:46 +0600</pubDate>
+      
+      <guid>https://www.kuguar.dev/categories/marketing-guidance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Profit &amp; Growth</title>
+      <link>https://www.kuguar.dev/categories/profit-growth/</link>
+      <pubDate>Mon, 24 Sep 2018 11:10:07 +0600</pubDate>
+      
+      <guid>https://www.kuguar.dev/categories/profit-growth/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Business News</title>
+      <link>https://www.kuguar.dev/categories/business-news/</link>
+      <pubDate>Mon, 24 Sep 2018 11:07:10 +0600</pubDate>
+      
+      <guid>https://www.kuguar.dev/categories/business-news/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Company News</title>
+      <link>https://www.kuguar.dev/categories/company-news/</link>
+      <pubDate>Mon, 24 Sep 2018 11:07:10 +0600</pubDate>
+      
+      <guid>https://www.kuguar.dev/categories/company-news/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Investment</title>
+      <link>https://www.kuguar.dev/categories/investment/</link>
+      <pubDate>Sun, 23 Sep 2018 11:35:34 +0600</pubDate>
+      
+      <guid>https://www.kuguar.dev/categories/investment/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

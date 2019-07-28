@@ -1,214 +1,511 @@
 <!DOCTYPE html>
 <html lang="en-us"><head>
-	<meta charset="utf-8">
-	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-        <meta name="generator" content="Hugo 0.53" />
-
-	<title>Home | Kuguar</title>
-
-
-	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
-	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css" integrity="sha384-DNOHZ68U8hZfKXOrtjWvjxusGo9WQnrNx2sqG0tfsghAvtVlRW3tvkXWZh58N9jp"
-	 crossorigin="anonymous">
-	<link href="https://fonts.googleapis.com/css?family=Righteous%7CMerriweather:300,300i,400,400i,700,700i" rel="stylesheet">
-	<link href="/css/medium.css" rel="stylesheet">
-	<link href="/css/additional.css" rel="stylesheet">
-	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.1/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
-</head>
-<body>
-<nav class="navbar navbar-expand-lg navbar-light bg-white fixed-top mediumnavigation nav-down">
-    <div class="container pr-0">
-
-        <a class="navbar-brand" href="https://www.kuguar.dev//">
-
-
-            <span style="font-family:Righteous;">Kuguar</span>
-
-        </a>
-
-
-        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarMediumish" aria-controls="navbarSupportedContent"
-            aria-expanded="false" aria-label="Toggle navigation">
-            <span class="navbar-toggler-icon"></span>
-        </button>
-
-
-        <div class="collapse navbar-collapse" id="navbarMediumish">
-
-            <ul class="navbar-nav ml-auto">
-
-                <li class="nav-item ">
-                    <a class="nav-link" href="/contact/">Contact</a>
-                </li>
-
-            </ul>
-        </div>
-
-    </div>
-</nav>
-
-
-        <div class="site-content">
-            <div class="container">
-    <div class="main-content">
-        <header class="text-center">
-            <h1 class="index-title"></h1>
-        </header>
-
-        <section class="text-center">
-        </section>
-
-
-        <div class="article-post">
-<h2 id="apis">APIs</h2>
-
-<p>Depending on project needs we build, deploy and keep running escalable REST and GraphQL APIs to support web, mobile, <a href="https://en.wikipedia.org/wiki/Internet_of_things">IoT</a> and real-time systems.</p>
-
-<h2 id="web">Web</h2>
-
-<ul>
-<li><p><strong>Traditional Web App</strong>: where the application logic reside exclusively in the backend system, we can provide you with a sounded solution leaning on progressive enhancement and <a href="https://roca-style.org/">ROCA recommendations</a>.</p></li>
-
-<li><p><strong>Single Page Apps</strong>: for rich user interfaces, dashboards and monitoring control panels or you already have a built API serving requests and there is a need to interact with it through a web browser.</p></li>
-</ul>
-
-<h2 id="mobile">Mobile</h2>
-
-<ul>
-<li><p><strong>Native apps</strong> for iOS and Android. We use Flutter to share the same codebase for both platforms.</p></li>
-
-<li><p><strong>Progressive Web Apps</strong> when you want to deliver fast not wanting to giving up an amazing user experience while avoiding at the same time the cumbersome approval processes for delivering and update on each platform and, finally, all sharing a large part of the logic used to build the web client.</p></li>
-</ul>
-
-<h2 id="deployment">Deployment</h2>
-
-<p>Unless an specific customer requirement force us to lean over another development platform our solutions can usually be deployed, either in bare metal as a single compiled file or, for more complex developments and using container orchestration technologies, in any Kubernetes cloud provider.</p>
-
-<p>Among among other technical features, containers can be seen as a way to avoid vendor lock-in by abstracting the application away from the underlying hardware and platform. Any container image should be able to run on any cloud service (GKE, EKS, Azure, DigitalOcean, etc...)</p>
-
-<p>From Kubernetes sites</p>
-
-<blockquote>
-  <p><a href="https://kubernetes.io/docs/concepts/overview/what-is-kubernetes">Kubernetes is a portable, extensible open-source platform for managing containerized workloads and services, that facilitates both declarative configuration and automation. It has a large, rapidly growing ecosystem.</a></p>
-</blockquote>
-
-<h2 id="techstack">Tech Stack</h2>
-
-<p>Our developments are mainly based on these technologies.</p>
-
-<h3 id="back">Back</h3>
-
-<ul>
-<li><a href="https://golang.org/">Go</a></li>
-
-<li><a href="https://gokit.io/">Go kit</a></li>
-
-<li><a href="https://github.com/nytimes/gizmo">Gizmo</a></li>
-
-<li><a href="https://goa.design">Goa</a></li>
-
-<li><a href="https://www.vaultproject.io/">Vault</a></li>
-
-<li><a href="https://www.consul.io/">Consul</a></li>
-
-<li><a href="https://casbin.org/">Casbin</a></li>
-
-<li><a href="https://github.com/graphql-go/graphql">GraphQL Go</a></li>
-</ul>
-
-<h3 id="front">Front</h3>
-
-<ul>
-<li><a href="https://dart.dev/">Dart</a></li>
-
-<li><a href="https://flutter.dev/">Flutter</a></li>
-
-<li><a href="https://medium.com/flutter-io/hummingbird-building-flutter-for-the-web-e687c2a023a8">Hummingbird</a> (*)</li>
-
-<li><a href="https://unpoly.com/">Unpoly</a></li>
-
-<li><a href="https://material.io/design">Material</a></li>
-</ul>
-
-<h3 id="databases">Databases</h3>
-
-<ul>
-<li><a href="https://www.mongodb.com">MongoDB</a></li>
-
-<li><a href="https://dgraph.io">Dgraph</a></li>
-
-<li><a href="https://www.postgresql.org">PostgreSQL</a></li>
-</ul>
-
-<h3 id="brokers">Brokers</h3>
-
-<ul>
-<li><a href="https://redis.io/">Redis</a></li>
-
-<li><a href="https://www.rabbitmq.com/">RabbitMQ</a></li>
-</ul>
-
-<h3 id="deployment-1">Deployment</h3>
-
-<ul>
-<li><a href="https://www.docker.com">Docker</a></li>
-
-<li><a href="https://kubernetes.io">Kubernetes</a></li>
-
-<li><a href="https://cloud.google.com/kubernetes-engine">Google GKE</a></li>
-
-<li><a href="https://aws.amazon.com/eks">Amazon EKS</a></li>
-
-<li><a href="https://azure.microsoft.com/en-us/services/kubernetes-service">Azure AKS</a></li>
-
-<li><a href="https://www.digitalocean.com/products/kubernetes">DigitalOcean Kubernetes</a></li>
-</ul>
-
-<p>(*) Soon</p>
-        </div>
-
-    </div><section class="text-center">
-
-</section>
-
-
+    <meta charset="utf-8">
+    <title>Kuguar</title>
+
+    <!-- mobile responsive meta -->
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <meta name="description" content="">
+    
+    <meta name="generator" content="Hugo 0.57.0-DEV" />
+
+    <!-- Bootstrap -->
+    <link rel="stylesheet" href="https://www.kuguar.dev/plugins/bootstrap/bootstrap.min.css ">
+    <!-- magnific popup -->
+    <link rel="stylesheet" href="https://www.kuguar.dev/plugins/magnific-popup/magnific-popup.css ">
+    <!-- Slick Carousel -->
+    <link rel="stylesheet" href="https://www.kuguar.dev/plugins/slick/slick.css ">
+    <link rel="stylesheet" href="https://www.kuguar.dev/plugins/slick/slick-theme.css ">
+    <!-- themify icon -->
+    <link rel="stylesheet" href="https://www.kuguar.dev/plugins/themify-icons/themify-icons.css ">
+    <!-- animate -->
+    <link rel="stylesheet" href="https://www.kuguar.dev/plugins/animate/animate.css ">
+    <!-- Aos -->
+    <link rel="stylesheet" href="https://www.kuguar.dev/plugins/aos/aos.css ">
+    <!-- Main Stylesheet -->
+    
+    <link rel="stylesheet" href="https://www.kuguar.dev/css/style.min.css" integrity="" media="screen">
+
+    <!--Favicon-->
+    <link rel="shortcut icon" href="https://www.kuguar.dev/images/favicon.png " type="image/x-icon">
+    <link rel="icon" href="https://www.kuguar.dev/images/favicon.png " type="image/x-icon">
+
+</head><body><!-- navigation -->
+<header>
+    <!-- top header -->
+    <div class="top-header">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <ul class="list-inline text-lg-right text-center">
+                        <li class="list-inline-item">
+                            <a href="mailto:info@kuguar.dev">info@kuguar.dev</a> 
+                        </li>
+                    </ul>
+                </div>
             </div>
-<footer class="footer">
+        </div>
+    </div>
+    <!-- nav bar -->
+    <div class="navigation">
+        <div class="container">
+            <nav class="navbar navbar-expand-lg navbar-light bg-light">
+                <a class="navbar-brand" href="https://www.kuguar.dev/">
+                    <img src="https://www.kuguar.dev/images/logo.png" alt="logo">
+                </a>
+                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navigation"
+                    aria-controls="navigation" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+
+                <div class="collapse navbar-collapse" id="navigation">
+                    <ul class="navbar-nav ml-auto">
+                        
+                        <li class="nav-item">
+                            <a class="nav-link btn btn-primary btn-sm" href="https://www.kuguar.dev/contact"> Contact </a>
+                        </li>
+                        
+                    </ul>
+
+                    
+                </div>
+            </nav>
+        </div>
+    </div>
+</header><!-- preloader start -->
+        <div class="preloader">
+            <img src="https://www.kuguar.dev/images/preloader.gif " alt="preloader">
+        </div>
+        <!-- preloader end -->
+        <div id="content">
+
+
+
+<!-- hero slider -->
+<section>
+    <div class="hero-slider position-relative">
+        <!-- slider item -->
+        
+        <div class="hero-slider-item py-160" style="background-image: url('https://www.kuguar.dev/images/banner/banner-1.jpg')" data-icon="ti-arrow-circle-right"
+            data-text="Builders">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-12">
+                        <div class="hero-content">
+                            <h4 class="text-uppercase mb-1" data-duration-in=".5" data-animation-in="fadeInLeft"
+                                data-delay-in=".1">Tell us you idea</h4>
+                            <h1 class="font-weight-bold mb-3" data-duration-in=".5" data-animation-in="fadeInLeft"
+                                data-delay-in=".5">We build it</h1>
+                            <p class="text-dark mb-50" data-duration-in=".5" data-animation-in="fadeInLeft"
+                                data-delay-in=".9">Full scalable solutions to help you set your business in the right path.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+        <div class="hero-slider-item py-160" style="background-image: url('https://www.kuguar.dev/images/banner/banner-2.jpg')" data-icon="ti-arrow-circle-right"
+            data-text="Platform">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-12">
+                        <div class="hero-content">
+                            <h4 class="text-uppercase mb-1" data-duration-in=".5" data-animation-in="fadeInLeft"
+                                data-delay-in=".1">Proven technologies</h4>
+                            <h1 class="font-weight-bold mb-3" data-duration-in=".5" data-animation-in="fadeInLeft"
+                                data-delay-in=".5">Go, Elixir &amp; Elm</h1>
+                            <p class="text-dark mb-50" data-duration-in=".5" data-animation-in="fadeInLeft"
+                                data-delay-in=".9">Scalable and resilient services developed using state-of-art tools and practices.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+        <div class="hero-slider-item py-160" style="background-image: url('https://www.kuguar.dev/images/banner/banner-4.jpg')" data-icon="ti-arrow-circle-right"
+            data-text="Transparency">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-12">
+                        <div class="hero-content">
+                            <h4 class="text-uppercase mb-1" data-duration-in=".5" data-animation-in="fadeInLeft"
+                                data-delay-in=".1">Traceable development</h4>
+                            <h1 class="font-weight-bold mb-3" data-duration-in=".5" data-animation-in="fadeInLeft"
+                                data-delay-in=".5">You are in control</h1>
+                            <p class="text-dark mb-50" data-duration-in=".5" data-animation-in="fadeInLeft"
+                                data-delay-in=".9">You always have access to the development current state as well as docs, metrics & issues tracking.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+        <div class="hero-slider-item py-160" style="background-image: url('https://www.kuguar.dev/images/banner/banner-3.jpg')" data-icon="ti-arrow-circle-right"
+            data-text="Methodology">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-12">
+                        <div class="hero-content">
+                            <h4 class="text-uppercase mb-1" data-duration-in=".5" data-animation-in="fadeInLeft"
+                                data-delay-in=".1">No-nonsense</h4>
+                            <h1 class="font-weight-bold mb-3" data-duration-in=".5" data-animation-in="fadeInLeft"
+                                data-delay-in=".5">Calm and focused</h1>
+                            <p class="text-dark mb-50" data-duration-in=".5" data-animation-in="fadeInLeft"
+                                data-delay-in=".9">Straight to the point, no wasted time in trendy practices that consume your budget.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+    </div>
+</section>
+<!-- /hero slider -->
+
+
+<!-- service -->
+<section class="section">
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-lg-12 text-center">
+                <h5 class="section-title-sm">Best Service</h5>
+                <h2 class="section-title section-title-border">We build</h2>
+            </div>
+            
+            
+            <!-- service item -->
+            <div class="col-lg-4 col-sm-6 mb-5">
+                <div class="card text-center">
+                    <h4 class="card-title pt-3"></h4>
+                    <div class="card-img-wrapper">
+                        <img class="card-img-top rounded-0" src="https://www.kuguar.dev/images/service/api.png" alt="service-image">
+                    </div>
+                    <div class="card-body p-0">
+                        <i class="square-icon translateY-33 rounded ti-plug"></i>
+                        <p class="card-text mx-2 mb-0">As a function of project requirements and scope we design extensible and robust RESTful and GraphQL Web APIS to feed browser, mobile devices and real-time IoT systems.</p>
+                        
+                    </div>
+                </div>
+            </div>
+            
+            
+            
+            <!-- service item -->
+            <div class="col-lg-4 col-sm-6 mb-5">
+                <div class="card text-center">
+                    <h4 class="card-title pt-3"></h4>
+                    <div class="card-img-wrapper">
+                        <img class="card-img-top rounded-0" src="https://www.kuguar.dev/images/service/webapps.png" alt="service-image">
+                    </div>
+                    <div class="card-body p-0">
+                        <i class="square-icon translateY-33 rounded ti-world"></i>
+                        <p class="card-text mx-2 mb-0">Backend and Frontend integrated solutions based on our tech-stack. Tested logic and resilient architectures giving life to stylized and bespoke interfaces.</p>
+                        
+                    </div>
+                </div>
+            </div>
+            
+            
+            
+            <!-- service item -->
+            <div class="col-lg-4 col-sm-6 mb-5">
+                <div class="card text-center">
+                    <h4 class="card-title pt-3"></h4>
+                    <div class="card-img-wrapper">
+                        <img class="card-img-top rounded-0" src="https://www.kuguar.dev/images/service/spa.png" alt="service-image">
+                    </div>
+                    <div class="card-body p-0">
+                        <i class="square-icon translateY-33 rounded ti-layout-slider-alt"></i>
+                        <p class="card-text mx-2 mb-0">Interfaces you can trust. No runtime exception guaranteed by our stack, a smooth navigation for a seamless and interruption-free user experience.</p>
+                        
+                    </div>
+                </div>
+            </div>
+            
+            
+        </div>
+    </div>
+</section>
+<!-- /service -->
+
+
+<!-- about -->
+<section class="about section-sm overlay" style="background-image: url('https://www.kuguar.dev/images/background/about-bg.jpg');">
     <div class="container">
         <div class="row">
-            <div class="col-md-6 col-sm-6 text-center text-lg-left">
-                &copy; Copyright
-            </div>
-            <div class="col-md-6 col-sm-6 text-center text-lg-right">
-                <a target="_blank" href="https://www.wowthemes.net">Mediumish Theme</a> by WowThemes.net
+            <div class="col-lg-6 ml-auto">
+                <div class="rounded p-sm-5 px-3 py-5 bg-secondary">
+                    <h3 class="section-title section-title-border-half text-white">Post-agile &amp; calm company</h3> 
+                    <p class="text-white mb-40">Those are trendy definitions but we recognize that they can help us to easily convey our idiosyncrasies</p> 
+                    <div>
+                        <ul class="d-inline-block pl-0 float-sm-left mr-sm-5">
+                            
+                            <li class="font-secondary mb-10 text-white">
+                                <i class="text-primary mr-2 ti-arrow-circle-right"></i>Asynchronous</li>
+                            
+                            <li class="font-secondary mb-10 text-white">
+                                <i class="text-primary mr-2 ti-arrow-circle-right"></i>Process agnostics</li>
+                            
+                            <li class="font-secondary mb-10 text-white">
+                                <i class="text-primary mr-2 ti-arrow-circle-right"></i>We love engineering</li>
+                            
+                        </ul>
+                        <ul class="d-inline-block pl-0">
+                            
+                            <li class="font-secondary mb-10 text-white">
+                                <i class="text-primary mr-2 ti-arrow-circle-right"></i>No boring meetings</li>
+                            
+                            <li class="font-secondary mb-10 text-white">
+                                <i class="text-primary mr-2 ti-arrow-circle-right"></i>Programmers do care</li>
+                            
+                            <li class="font-secondary mb-10 text-white">
+                                <i class="text-primary mr-2 ti-arrow-circle-right"></i>Trust &amp; autonomy</li>
+                            
+                        </ul>
+                    </div>
+                    
+                    <a href="https://www.kuguar.dev/" class="btn btn-primary mt-4"> Explore More </a>
+                    
+                </div>
             </div>
         </div>
     </div>
-</footer>
+</section>
+<!-- /about -->
 
+
+
+
+<!-- why.-->
+<section class="section">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12">
+                <h5 class="section-title-sm">About us</h5> 
+                <h2 class="section-title section-title-border-half">Who we are</h2> 
+            </div>
+            <div class="col-lg-7">
+                <p class="text-dark mb-40"> We are a small group of passionate developers that only gets simultaneously involved in a small number of projects.<br/><br/>We use a proven tech-stack in which continue practice allows us to work productively in order to provide a complete solution for you. </p>
+                <!-- fun-fact -->
+                <div class="mb-md-50">
+                    <div class="row">
+                        
+                    </div>
+                </div>
+            </div>
+            <!-- progressbar -->
+            <div class="col-lg-4 offset-lg-1">
+                
+            </div>
         </div>
+    </div>
+</section>
+<!-- /why.-->
 
 
-<script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
 
-<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
 
-<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
 
-<script src="/js/mediumish.js"></script>
+<!-- method -->
+<section class="about section-sm overlay" style="background-image: url('https://www.kuguar.dev/images/whiteboard.jpg');">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-6 ml-auto">
+                <div class="rounded p-sm-5 px-3 py-5 bg-secondary">
+                   <h3 class="section-title section-title-border-half text-white">How we work</h3> 
+                  <p>
+                     <p class="text-white mb-40">After we receive a formal specification we start building the tests that will ensure compliance during entire development process. Don&#39;t have a blueprint for your idea? We can iteratively build it together.</p> 
+                  </p>
+                  <p>
+                     <p class="text-white mb-40">We start building, testing and deploying in our staging servers on regular basis. There you can evaluate each new update. Access to the project dashboard allows you to get updated docs, suggest updates and report issues. We update estimates and trajectory is corrected.</p> 
+                  </p>
+                  <p>
+                     <p class="text-white mb-40">Code review and manual testing is norm on our development strategy. In the same way, automatic tests and static code analysis rule our continuous integration pipelines. Metrics and results are transparently available to you. Always.</p> 
+                  </p>
+                  
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- /method -->
 
-<script type="application/javascript">
-var doNotTrack = false;
-if (!doNotTrack) {
-	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-	})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-	ga('create', 'UA-106501002-1', 'auto');
 
-	ga('send', 'pageview');
-}
+
+
+<!-- techstack -->
+<section class="section">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12">
+                 <h5 class="section-title-sm">Tech Stack</h5> 
+                 <h2 class="section-title section-title-border-half">Our Tools</h2> 
+            </div>
+            <!-- accordion -->
+            <div class="col-lg-6">
+                <div id="accordion" class="mb-md-50">
+                      
+                    <div class="card border-0 mb-4">
+                        <div class="card-header bg-gray border p-0">
+                            <a class="card-link h5 d-block tex-dark mb-0 py-10 px-4" data-toggle="collapse" href="#goMicroservices">
+                                <i class=" ti-minus  text-primary mr-2"></i> Go Microservices
+                            </a>
+                        </div>
+                        <div id="goMicroservices" class="collapse  show " data-parent="#accordion">
+                            <div class="card-body font-secondary text-color pl-0 pb-0">
+                                If exponential demand is anticipated we usually plan the solution as a set of Go microservices deployed to Kubernetes. This ensures us pain-free scalability and absolute portability. GKE, EKS &amp; DigitalOcean Kubernetes are our most used cloud providers but nothing prevents moving our implementation to any other service that supports this technology.
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="card border-0 mb-4">
+                        <div class="card-header bg-gray border p-0">
+                            <a class="card-link h5 d-block tex-dark mb-0 py-10 px-4" data-toggle="collapse" href="#elixirPhoenix">
+                                <i class=" ti-plus  text-primary mr-2"></i> Elixir &#43; Phoenix
+                            </a>
+                        </div>
+                        <div id="elixirPhoenix" class="collapse " data-parent="#accordion">
+                            <div class="card-body font-secondary text-color pl-0 pb-0">
+                                When the scope of the application is widely established and high attendance with uniform demand is expected we prefer to develop them using an Elixir-Phoenix combo. Elixir runs on Erlang battle tested BEAM virtual machine; its actor-model concurrency strategy is well know for running low-latency, distributed, and fault-tolerant systems. At the same time, Phoenix LiveView is an exciting new technology that let us build interactive, real-rime apps at almost no cost.
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="card border-0 mb-4">
+                        <div class="card-header bg-gray border p-0">
+                            <a class="card-link h5 d-block tex-dark mb-0 py-10 px-4" data-toggle="collapse" href="#elmReact">
+                                <i class=" ti-plus  text-primary mr-2"></i> Elm &amp; React
+                            </a>
+                        </div>
+                        <div id="elmReact" class="collapse " data-parent="#accordion">
+                            <div class="card-body font-secondary text-color pl-0 pb-0">
+                                When more complex user interactions are required server side rendering or even LiveView model falls short to implement this need, our primary choice to develop Single Page Applications is Elm. This reactive and purely functional progamming language with its strong static type system and total immutability ensures us runtime-exception-free execution. Working on particular requirements and mainly when future implementations in mobile platforms are foreseen, React is also an appropriate choice for some projects.
+                            </div>
+                        </div>
+                    </div>
+                    
+                </div>
+            </div>
+            <!-- chart -->
+            <div class="col-lg-6">
+                <img src="https://www.kuguar.dev/images/go-elixir-elm.jpg" alt="chart" class="img-fluid w-100">
+            </div>
+        </div>
+    </div>
+</section>
+<!-- /techstack -->
+
+
+
+<!-- cta -->
+<section class="cta overlay-primary py-50 text-center text-lg-left" style="background-image: url('https://www.kuguar.dev/images/background/cta.jpg');">
+    <div class="container">
+        <div class="row justify-content-between">
+            <div class="col-lg-6">
+                <h3 class="text-white">Kuguar give the smart solution for your business</h3> 
+            </div>
+            <div class="col-lg-6 text-lg-right align-self-center">
+                
+                <a class="btn btn-light text-uppercase" href="https://www.kuguar.dev/contact"> Contact </a>
+                
+            </div>
+        </div>
+    </div>
+</section>
+<!-- /cta -->
+
+
+
+        </div><!-- footer -->
+<footer class="bg-secondary">
+    <div class="py-100 border-bottom" style="border-color: #454547 !important">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-4 col-md-4">
+                    <div class="mb-5 mb-md-0 text-center text-md-left">
+                        <!-- logo -->
+                        <img class="mb-30" src="https://www.kuguar.dev/images/logo-footer.png" alt="logo">
+                        <p class="text-white mb-30"> Software Solutions</p> 
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- copyright -->
+    <div class="pt-4 pb-3 position-relative">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-6 col-md-5">
+                    <p class="text-white text-center text-md-left">
+                        <span class="text-primary">Kuguar</span> &copy; 2015 All Right Reserved</p> 
+                </div>
+                <div class="col-lg-6 col-md-7">
+                    <ul class="list-inline text-center text-md-right">
+                        
+                        <li class="list-inline-item mx-lg-3 my-lg-0 mx-2 my-2">
+                            <a class="font-secondary text-white" href="https://www.kuguar.dev/">Legal</a>
+                        </li>
+                        
+                        <li class="list-inline-item mx-lg-3 my-lg-0 mx-2 my-2">
+                            <a class="font-secondary text-white" href="https://www.kuguar.dev/">Sitemap</a>
+                        </li>
+                        
+                        <li class="list-inline-item mx-lg-3 my-lg-0 mx-2 my-2">
+                            <a class="font-secondary text-white" href="https://www.kuguar.dev/">Privacy Policy</a>
+                        </li>
+                        
+                        <li class="list-inline-item mx-lg-3 my-lg-0 mx-2 my-2">
+                            <a class="font-secondary text-white" href="https://www.kuguar.dev/">Terms &amp; Conditions</a>
+                        </li>
+                        
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <!-- back to top -->
+        <button class="back-to-top">
+            <i class="ti-angle-up"></i>
+        </button>
+    </div>
+</footer>
+<!-- /footer -->
+
+<!-- jQuery -->
+<script src="https://www.kuguar.dev/plugins/jQuery/jquery.min.js"></script>
+<!-- Bootstrap JS -->
+<script src="https://www.kuguar.dev/plugins/bootstrap/bootstrap.min.js"></script>
+<!-- magnific popup -->
+<script src="https://www.kuguar.dev/plugins/magnific-popup/jquery.magnific.popup.min.js"></script>
+<!-- slick slider -->
+<script src="https://www.kuguar.dev/plugins/slick/slick.min.js"></script>
+<!-- filter -->
+<script src="https://www.kuguar.dev/plugins/filterizr/jquery.filterizr.min.js"></script>
+<!-- Google Map -->
+<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBu5nZKbeK-WHQ70oqOWo-_4VmwOwKP9YQ"></script>
+<script src="https://www.kuguar.dev/plugins/google-map/gmap.js"></script>
+<!-- Syo Timer -->
+<script src="https://www.kuguar.dev/plugins/syotimer/jquery.syotimer.js"></script>
+<!-- aos -->
+<script src="https://www.kuguar.dev/plugins/aos/aos.js"></script>
+<!-- Main Script -->
+
+<script src="https://www.kuguar.dev/js/script.min.js"></script>
+<!-- google analitycs -->
+<script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+    ga('create', 'UA-106501002-1', 'auto');
+    ga('send', 'pageview');
 </script>
 
-    </body>
+</body>
+
+</html></body>
 </html>
